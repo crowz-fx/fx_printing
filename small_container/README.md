@@ -8,7 +8,6 @@ It actually doubles up as a nice container for storage, normal import size is 20
 
 ## Print Settings
 ```
-Printer Brand: Creality
 Printer: Ender 3
 Rafts: No
 Supports: No
@@ -18,5 +17,4 @@ Filament: PLA
 ```
 
 ## Images
-![container](images/container_printed.jpeg)
-![container_stl](images/container_stl.jpg)
+![container](images/container.jpg)
