@@ -17,4 +17,4 @@ Filament: PLA
 ```
 
 ## Images
-![container](img/lego_brick.jpg)
+![Lego Brick](img/lego_brick.jpg)
