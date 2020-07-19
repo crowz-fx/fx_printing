@@ -9,3 +9,4 @@ The list is sorted by 0-9, then a-z:
 * [lego_brick](lego_brick/README.md)
 * [M12_screw_n_nut](M12_screw_n_nut/README.md)
 * [small_container](small_container/README.md)
+* [tally_dice](tally_dice/README.md)
