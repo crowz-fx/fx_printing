@@ -5,6 +5,7 @@ This repo is a collection of all the designs and 3D prints that I have made and 
 The list is sorted by 0-9, A-Z then a-z:
 
 * [2-to-1_gears](2-to-1_gears/README.md)
+* [buck_converter_with_lid](buck_converter_with_lid/README.md)
 * [cisco_catalyst_2921_router_spacer](cisco_catalyst_2921_router_spacer/README.md)
 * [cisco_catalyst_3560_series_switch_spacer](cisco_catalyst_3560_series_switch_spacer/README.md)
 * [glue_gun_holder](glue_gun_holder/README.md)
