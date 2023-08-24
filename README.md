@@ -1,5 +1,10 @@
 # fx_printing
-This repo is a collection of all the designs and 3D prints that I have made and published to thingiverse; you can find my [profile](https://www.thingiverse.com/crowzfx/about) here.
+This repo is a collection of all the designs and 3D prints that I have made and published to thingiverse; you can find my [profile](https://www.thingiverse.com/engineeringwithlui/about) here.
+
+## Deprecation Notice
+This repo is now dead and marked as archived, I was using it to dual-mirror Thingiverse as it has always been unreliable and buggy, now shifted to [Printables profile here](https://www.printables.com/@EngineeringW_1178402), that is the source of trurth and where all posts will be uploaded.
+
+Shameless plug of the [Insta page](https://www.instagram.com/engineeringwithlui/) :)
 
 ## Prints
 The list is sorted by 0-9, A-Z then a-z:
